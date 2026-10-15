@@ -18,5 +18,11 @@
   "authors": [{
       "name": "Mage-OS Italia"
   }],
-  "license": "MIT"
+  "license": "MIT",
+  "extra": {
+    "mageos_installer": {
+      "mandatory": "true",
+      "default": "true"
+    }
+  }
 }
